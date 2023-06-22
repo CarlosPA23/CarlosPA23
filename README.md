@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">A curious frontend developer from Bilbao (Spain)!</h3>
+<h3 align="center">A curious frontend developer from Bilbao!</h3>
 
 - 🔭 I’m currently working on **improving my Ruby skills**
 
