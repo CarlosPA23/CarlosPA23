@@ -2,7 +2,7 @@
 <h3 align="center">A curious frontend developer from Bilbao!</h3>
 
 
-🔭 I’m currently working on **Ruby and JavaScript skills**
+🔭 I’m currently working to improve my **Ruby and JavaScript skills**
 
 👯 I’m looking to collaborate on **any interesting project**
 
