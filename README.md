@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">A curious frontend developer from Bilbao!</h3>
 
-- 🔭 I’m currently working on **improving my Ruby skills**
 
-- 🌱 I’m currently learning **Ruby and JavaScript**
+🔭 I’m currently working on **Ruby and JavaScript skills**
 
-- 👯 I’m looking to collaborate on **any interesting project**
+👯 I’m looking to collaborate on **any interesting project**
 
-- 📫 How to reach me **karlos.alonsop@gmail.com**
+📫 How to reach me **karlos.alonsop@gmail.com**
 
-- ⚡ Fun fact **I saw a hobbit in Barcelona**
+⚡ Fun fact **I saw a hobbit in Barcelona**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
